@@ -2,7 +2,7 @@
 
 A modern and responsive web application for discovering, searching, and saving your favorite movies using The Movie Database (TMDB) API.
 
-![React](https://img.shields.io/badge/React-19.2-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/React-19.2.3-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.1-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Tanstack Query](https://img.shields.io/badge/Tanstack_Query-5.0-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 
